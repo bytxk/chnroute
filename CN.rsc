@@ -4028,9 +4028,7 @@ add list=CN address=202.38.0.0/22
 add list=CN address=202.38.8.0/21
 add list=CN address=202.38.48.0/20
 add list=CN address=202.38.64.0/18
-add list=CN address=202.38.128.0/22
-add list=CN address=202.38.132.0/23
-add list=CN address=202.38.134.0/24
+add list=CN address=202.38.128.0/21
 add list=CN address=202.38.136.0/23
 add list=CN address=202.38.140.0/22
 add list=CN address=202.38.149.0/24
