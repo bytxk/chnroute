@@ -154,6 +154,7 @@ add list=CN address=39.128.0.0/10
 add list=CN address=40.72.0.0/15
 add list=CN address=40.125.128.0/17
 add list=CN address=40.126.64.0/18
+add list=CN address=40.162.0.0/16
 add list=CN address=42.0.0.0/22
 add list=CN address=42.0.8.0/21
 add list=CN address=42.0.16.0/21
