@@ -3069,7 +3069,6 @@ add list=CN address=115.44.0.0/14
 add list=CN address=115.48.0.0/12
 add list=CN address=115.69.64.0/20
 add list=CN address=115.84.0.0/18
-add list=CN address=115.84.192.0/19
 add list=CN address=115.85.192.0/18
 add list=CN address=115.100.0.0/14
 add list=CN address=115.104.0.0/14
