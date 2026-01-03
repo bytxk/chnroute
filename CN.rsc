@@ -1686,6 +1686,7 @@ add list=CN address=111.235.180.0/23
 add list=CN address=111.235.182.0/24
 add list=CN address=112.0.0.0/10
 add list=CN address=112.64.0.0/14
+add list=CN address=112.73.96.0/19
 add list=CN address=112.74.0.0/16
 add list=CN address=112.80.0.0/12
 add list=CN address=112.96.0.0/13
